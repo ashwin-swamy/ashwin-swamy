@@ -1,5 +1,7 @@
 # Hi, I'm Ashwin Raghav Swamy.
 
+I'm a data scientist with an interest in interpreting and then visualizing data for easier understanding. I like finding patterns and monitoring vast changes over time. I'm hoping to use these skills to help businesses find interesting patterns they can use to better their applications.
+
 
 <!--
 **ashwin-swamy/ashwin-swamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
